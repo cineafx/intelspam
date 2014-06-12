@@ -1,0 +1,15 @@
+	//dropspammer
+    alias dropspam "toggleon"
+    alias toggleon "alias spammer2 spammer; spammer; alias dropspam toggleoff; echo_ar_on"
+    alias toggleoff "spamoff; alias dropspam toggleon; echo_ar_off"
+    alias spammer "dropitem; wait 2; spammer2"
+    alias spamoff "alias spammer2 wait"
+    alias spammer2 "spammer"
+     
+    con_filter_text "@#|&"
+    alias cf1 "con_filter_enable 1"
+    alias cf0 "con_filter_enable 0"
+     
+    alias echo_ar_on "developer 1; cf0; wait 5; echo AUTODROP ON; cf1; wait 200; cf0; developer 0"
+    alias echo_ar_off "developer 1; cf0; wait 5; echo AUTODROP OFF; cf1; wait 200; cf0; developer 0"
+
