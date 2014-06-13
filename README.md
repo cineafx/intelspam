@@ -34,9 +34,11 @@ corner if it's active or not.
 
 ## AUTHORS ##
 This Script got written by cineafx
-https://twitter.com/cineafx
-http://steamcommunity.com/id/cineafx
+
+	https://twitter.com/cineafx
+	http://steamcommunity.com/id/cineafx
 
 This Script got Published by iLembus
-https://twitter.com/JonasDralle
-http://steamcommunity.com/id/iLembus
+
+	https://twitter.com/JonasDralle
+	http://steamcommunity.com/id/iLembus
