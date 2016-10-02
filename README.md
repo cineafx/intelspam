@@ -34,7 +34,7 @@ corner if it's active or not.
 ## AUTHORS
 This Script got written by [cineafx].
 
-Open sourced by [iLembus] with permissioN.
+Open sourced by [iLembus] with permission.
 
 ## LICENSE
 
@@ -43,4 +43,4 @@ It's licensed under the [MIT License].
 [cineafx]: http://steamcommunity.com/id/cineafx
 [iLembus]: http://steamcommunity.com/id/iLembus
 
-[MIT License]: www.opensource.org/licenses/MI
+[MIT License]: http://opensource.org/licenses/MI
