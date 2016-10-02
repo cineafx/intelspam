@@ -28,17 +28,19 @@ You don't have to hold the Button, it toggles.
 you will get notified in the upper left
 corner if it's active or not.
 
-	Please Keep in Mind that you could get kicked and
-	temporarily banned from the Server 
+	Please keep in mind that you might get kicked or banned from the game server 
 
 
 ## AUTHORS ##
-This Script got written by cineafx
+This Script got written by [cineafx].
 
-	https://twitter.com/cineafx
-	http://steamcommunity.com/id/cineafx
+Open sourced by [iLembus] with permission.
+	
+## License
 
-This Script got Published by iLembus
+It's licensed under the [MIT License].
 
-	https://twitter.com/JonasDralle
-	http://steamcommunity.com/id/iLembus
+[cineafx]: http://steamcommunity.com/id/cineafx
+[iLembus]: http://steamcommunity.com/id/iLembus
+
+[MIT License]: www.opensource.org/licenses/MI
